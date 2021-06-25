@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/birthday/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/birthday/static/js/main.55f7e542.chunk.js",
+    "main.js.map": "/birthday/static/js/main.55f7e542.chunk.js.map",
+    "runtime-main.js": "/birthday/static/js/runtime-main.4fd0d649.js",
+    "runtime-main.js.map": "/birthday/static/js/runtime-main.4fd0d649.js.map",
+    "static/js/2.55171768.chunk.js": "/birthday/static/js/2.55171768.chunk.js",
+    "static/js/2.55171768.chunk.js.map": "/birthday/static/js/2.55171768.chunk.js.map",
+    "static/js/3.444fafd5.chunk.js": "/birthday/static/js/3.444fafd5.chunk.js",
+    "static/js/3.444fafd5.chunk.js.map": "/birthday/static/js/3.444fafd5.chunk.js.map",
+    "index.html": "/birthday/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/birthday/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.55171768.chunk.js.LICENSE.txt": "/birthday/static/js/2.55171768.chunk.js.LICENSE.txt",
+    "static/media/1.6279efb1.jpg": "/birthday/static/media/1.6279efb1.jpg",
+    "static/media/10.dfd5e243.jpg": "/birthday/static/media/10.dfd5e243.jpg",
+    "static/media/11.acdc954c.jpg": "/birthday/static/media/11.acdc954c.jpg",
+    "static/media/12.a1de186c.jpg": "/birthday/static/media/12.a1de186c.jpg",
+    "static/media/13.2735adc0.jpg": "/birthday/static/media/13.2735adc0.jpg",
+    "static/media/14.9628119d.jpg": "/birthday/static/media/14.9628119d.jpg",
+    "static/media/15.9c127efe.jpg": "/birthday/static/media/15.9c127efe.jpg",
+    "static/media/16.b4248fbd.jpg": "/birthday/static/media/16.b4248fbd.jpg",
+    "static/media/17.bada7888.jpg": "/birthday/static/media/17.bada7888.jpg",
+    "static/media/18.3c5b5fb7.jpg": "/birthday/static/media/18.3c5b5fb7.jpg",
+    "static/media/2.3d87ccf1.jpg": "/birthday/static/media/2.3d87ccf1.jpg",
+    "static/media/3.71f6b931.jpg": "/birthday/static/media/3.71f6b931.jpg",
+    "static/media/4.ce23e4c7.jpg": "/birthday/static/media/4.ce23e4c7.jpg",
+    "static/media/5.e3246aae.jpg": "/birthday/static/media/5.e3246aae.jpg",
+    "static/media/6.6424ac0e.jpg": "/birthday/static/media/6.6424ac0e.jpg",
+    "static/media/7.a201b9e0.jpg": "/birthday/static/media/7.a201b9e0.jpg",
+    "static/media/8.c6690c24.jpg": "/birthday/static/media/8.c6690c24.jpg",
+    "static/media/9.da936351.jpg": "/birthday/static/media/9.da936351.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fd0d649.js",
+    "static/js/2.55171768.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.55f7e542.chunk.js"
+  ]
+}
